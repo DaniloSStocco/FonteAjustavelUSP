@@ -44,10 +44,11 @@ _Obs.: o transformador apenas altera o valor da diferença de potencial entre se
 https://tinyurl.com/bdcs8n32
 
 ## Imagem Esquemática da PCB
-//imagem
+![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/esquematica.png "Imagem do circuito esquemático")
+
 
 ## Imagem PCB
-//ibagem
+![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/PCBeagle.png "Imagem do circuito no PCB no Eagle")
 
 ## Vídeo no Youtube
 //vídeo 
