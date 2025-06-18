@@ -7,11 +7,11 @@
 | Diodo | 4 | |
 | Diodo Zener | 2 | |
 | LED vermelho | 3 | |
-| Resistor 1k Ohms | x | |
-| Resistor 100 Ohms | y| |
-| Resistor 120 Ohms | z| |
-| Resistor 2.2k Ohms | w| |
-| Capacitor 1000 uF | 1 | |
+| Resistor 1k Ohms | 1 | |
+| Resistor 100 Ohms | 1| |
+| Resistor 120 Ohms | 1| |
+| Resistor 2.2k Ohms | 2| |
+| Capacitor 1 mF | 1 | |
 | Potenciômetro Xk| 1 | |
 | Transistor NPN | 1 | |
 | fusivel | 0 | |
@@ -43,7 +43,7 @@ _Obs.: o transformador apenas altera o valor da diferença de potencial entre se
 //iamgem
 
 ## Link para circuito no Falstad
-//link
+https://tinyurl.com/bdcs8n32
 
 ## Imagem Esquemática da PCB
 //imagem
