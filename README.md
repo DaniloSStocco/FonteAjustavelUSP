@@ -40,7 +40,7 @@ _Obs.: o transformador apenas altera o valor da diferença de potencial entre se
 - **Transistor**: utilizado para permitir a passagem da corrente de forma ajustável.
 
 ## Imagem do circuito
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/imagemCircuitoFalstad.png "Imagem do circuito no falstad")
 
 ## Link para circuito no Falstad
 https://tinyurl.com/bdcs8n32
