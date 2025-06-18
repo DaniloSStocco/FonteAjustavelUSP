@@ -3,20 +3,18 @@
 ## Tabela de Componentes:
 | Componente | Quantidade | Preço |
 | -----------|:----------:|-----:|
-| Transformador 24V | 1 | |
-| Diodo | 4 | |
-| Diodo Zener | 2 | |
-| LED vermelho | 3 | |
-| Resistor 1k Ohms | 1 | |
-| Resistor 100 Ohms | 1| |
-| Resistor 120 Ohms | 1| |
-| Resistor 2.2k Ohms | 2| |
-| Capacitor 1 mF | 1 | |
-| Potenciômetro Xk| 1 | |
-| Transistor NPN | 1 | |
-| fusivel | 0 | |
-| varistor | 0 | |
-|Total | | |
+| Transformador 24V | 1 | emprestado|
+| Diodo | 4 | 0,20 * 4 = 0,80 |
+| Diodo Zener | 1 | 0,50 |
+| LED vermelho | 1 | 0,50 |
+| Resistor 1k Ohms | 1 | 0,07 |
+| Resistor 100 Ohms | 1| 0,07 |
+| Resistor 120 Ohms | 1| 0,07|
+| Resistor 2.2k Ohms | 2| 0,07 * 2 = 0,14|
+| Capacitor 1 mF | 1 | 2,00|
+| Potenciômetro Xk| 1 | 7,00 |
+| Transistor NPN | 1 | 0,70|
+|Total | | 11.85 |
 
 ## Componentes:
 - **Transformador**: primeiro componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v). O transformador escolhido é capaz de abaixar a tensão de 110 volts para 12 volts.
