@@ -42,7 +42,7 @@ _Obs.: o transformador apenas altera o valor da diferença de potencial entre se
 ## Imagem do circuito
 //iamgem
 
-## Link para crcuito no Falstad
+## Link para circuito no Falstad
 //link
 
 ## Imagem Esquemática da PCB
