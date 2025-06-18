@@ -18,7 +18,7 @@
 | varistor | 0 | |
 |Total | | |
 
-## Os Componenetes:
+## Componentes:
 - **Transformador**: primeiro componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v). O transformador escolhido é capaz de abaixar a tensão de 110 volts para 12 volts.
 _Obs.: o transformador apenas altera o valor da diferença de potencial entre seus terminais, não alterando de corrente alternada para corrente contínua._
 
@@ -38,3 +38,25 @@ _Obs.: o transformador apenas altera o valor da diferença de potencial entre se
 - **Potenciômetro**: *resistor* variável que permitirá o controle do valor da tensão resultante entre 3 e 12 volts.
 
 - **Transistor**: utilizado para permitir a passagem da corrente de forma ajustável.
+
+## Imagem do circuito
+//iamgem
+
+## Link para crcuito no Falstad
+//link
+
+## Imagem Esquemática da PCB
+//imagem
+
+## Imagem PCB
+//ibagem
+
+## Vídeo no Youtube
+//vídeo 
+
+## Alunos
+- Danilo Salmen Stocco
+- Diogo Salmen Stocco
+- Felipe Carlos Savoia Glücksman
+- Rafael Senger
+
