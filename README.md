@@ -1,20 +1,20 @@
 # Fonte de Tensão Ajustável - USP - 2025
 ## Projeto desenvolvido para a disciplina de Eletrônica para Computadores
 ## Tabela de Componentes:
-| Componente | Quantidade | Preço |
+| Componente | Quantidade | Preço (R$) |
 | -----------|:----------:|-----:|
 | Transformador 24V | 1 | emprestado|
-| Diodo | 4 | 0,20 * 4 = 0,80 |
-| Diodo Zener | 1 | 0,50 |
-| LED vermelho | 1 | 0,50 |
-| Resistor 1k Ohms | 1 | 0,07 |
-| Resistor 100 Ohms | 1| 0,07 |
-| Resistor 120 Ohms | 1| 0,07|
-| Resistor 2.2k Ohms | 2| 0,07 * 2 = 0,14|
-| Capacitor 1 mF | 1 | 2,00|
-| Potenciômetro Xk| 1 | 7,00 |
-| Transistor NPN | 1 | 0,70|
-|Total | | 11.85 |
+| Diodo 1N4007 | 4 | 0,20 * 4 = 0,80 |
+| Diodo Zener 1N4743 | 1 | 0,50 |
+| LED vermelho S530-L | 1 | 0,50 |
+| Resistor 1k Ohms LGE | 1 | 0,07 |
+| Resistor 100 Ohms ROHS | 1| 0,07 |
+| Resistor 120 Ohms ROHS | 1| 0,07|
+| Resistor 2.2k Ohms ROHS | 2| 0,07 * 2 = 0,14|
+| Capacitor 1 mF X35V | 1 | 2,00|
+| Potenciômetro 10k B-16 | 1 | 7,00 |
+| Transistor NPN BC337-40 | 1 | 0,70|
+| Total | | 11.85 |
 
 ## Componentes:
 - **Transformador**: primeiro componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v). O transformador escolhido é capaz de abaixar a tensão de 110 volts para 12 volts.
@@ -51,7 +51,7 @@ https://tinyurl.com/bdcs8n32
 ![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/PCBeagle.png "Imagem do circuito no PCB no Eagle")
 
 ## Vídeo no Youtube
-//vídeo 
+https://youtube.com/shorts/0OYnWFA0fto?si=zNpCkuGSwgYqhvWx
 
 ## Alunos
 - Danilo Salmen Stocco
