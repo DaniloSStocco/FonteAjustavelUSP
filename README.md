@@ -31,7 +31,7 @@ _Obs.: o transformador apenas altera o valor da diferença de potencial entre se
 
 - **Diodo Zener**: regulador de tensão máxima. Somente conduz corrente quando a tensão que chegar alcança a tensão nominal do diodo, que no caso deste projeto, será 12v. Se a tensão for menor do que 12v, o Diodo não conduz e, portanto, não interfere no circuito, se for maior, deixará a corrente passar, mantendo a tensão em 12v naquele ponto. Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exatamente o valor de tensão máximo que queremos na saída da nossa fonte.
 
-- **Resistores**: complementam o circuito de forma a limitar a corrente e impedindo que a corrente do circuito ultrapasse os valores limites dos componentes.
+- **Resistores**: complementam o circuito de forma a limitar a corrente e impedindo que a corrente do circuito ultrapasse os valores limites dos componentes. OBS.: nas imagens a resistência depois do potenciômetro é de 4.4k ohms, apesar de estar escrito 5.4k. O circuito no falstad via link contém as informações corretas.
 
 - **Potenciômetro**: *resistor* variável que permitirá o controle do valor da tensão resultante entre 3 e 12 volts.
 
