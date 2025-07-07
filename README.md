@@ -53,6 +53,11 @@ https://tinyurl.com/ytld4qlu
 ## Vídeo no Youtube
 https://youtube.com/shorts/0OYnWFA0fto?si=zNpCkuGSwgYqhvWx
 
+## Foto do circuito
+![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/circuitocima.heic "Foto do circuito por cima")
+![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/circuitolado1.heic "Foto do circuito por um lado")
+![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/circuitolado2.heic "Foto do circuito por outro lado")
+
 ## Alunos
 - Danilo Salmen Stocco
 - Diogo Salmen Stocco
