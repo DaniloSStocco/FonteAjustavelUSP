@@ -41,7 +41,7 @@ _Obs.: o transformador apenas altera o valor da diferença de potencial entre se
 ![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/imagemCircuitoFalstad.png "Imagem do circuito no falstad")
 
 ## Link para circuito no Falstad
-https://tinyurl.com/bdcs8n32
+https://tinyurl.com/ytld4qlu
 
 ## Imagem Esquemática da PCB
 ![alt text](https://github.com/DaniloSStocco/FonteAjustavelUSP/blob/main/imagens/esquematica.png "Imagem do circuito esquemático")
